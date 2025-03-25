@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm hamza chehlaoui
 
-![Redmi-Inspired Banner](https://media.licdn.com/dms/image/v2/D4E03AQFWCBmuwtAlgg/profile-displayphoto-shrink_400_400/B4EZSXbCmpGwAg-/0/1737707237271?e=1748476800&v=beta&t=wfl9LcIO11KWJjpgmKSCZrP3cy2SPnU3-PG0IDHsmr4)
+![Redmi-Inspired Banner](https://th.bing.com/th/id/OIP.rB_ryT3HMG-aHRk09YMAqwAAAA?w=460&h=301&rs=1&pid=ImgDetMain)
 
 ## 🚀 About Me
 - 💻 Tech Enthusiast | Developer | Xiaomi Fan
