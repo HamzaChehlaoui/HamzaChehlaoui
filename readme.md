@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm hamza chehlaoui
+# Hi there! 👋 I'm Hamza Chehlaoui
 
 ![Redmi-Inspired Banner](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
